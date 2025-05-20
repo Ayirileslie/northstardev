@@ -28,7 +28,7 @@ export default function About() {
           </div>
           <div className="rounded-xl overflow-hidden shadow-lg border border-[#E0E0E0]">
             <img
-              src="/about/lala-azizli-tfNyTfJpKvc-unsplash.jpg"
+              src="/about/png2.jpg"
               alt="Team of developers collaborating"
               className="w-full h-full object-cover"
             />
